@@ -1,16 +1,14 @@
-## Hi there 👋
+##👋 Olá! Eu sou João Vitor Paulino Portela
 
-<!--
-**Joaovpp19/Joaovpp19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico em Desenvolvimento de Sistemas pela Etec Zona Leste.  
+💻 Apaixonado por tecnologia, desenvolvimento web e banco de dados.  
+🚀 Buscando oportunidades na área de TI para crescer e evoluir como profissional.
 
-Here are some ideas to get you started:
+🔹 **Habilidades**:
+- 📌 Linguagens: HTML, CSS, Java, PHP (Laravel), JavaScript
+- 📌 Banco de Dados: MySQL, SQL Server
+- 📌 Ferramentas: Git, GitHub, Visual Studio Code, Cisco Packet Tracer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Entre em contato comigo:**
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3ovitor-portela4467b329a/)
+- 📩 E-mail: jpaulino1319@gmail.com
